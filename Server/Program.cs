@@ -60,9 +60,6 @@ namespace Server
             {
                 Console.WriteLine(e.ToString());
             }
-
-            Console.WriteLine("\n Press any key to continue...");
-            Console.ReadKey();
         }
     }
 }
